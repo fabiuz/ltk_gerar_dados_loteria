@@ -20,13 +20,16 @@ indent_mode=2
 [project]
 name=fbLTK
 base_path=/home/fabiuz/meus_documentos/datagrip/LTK_SCRIPT/
+description=
+file_patterns=
 
 [long line marker]
-long_line_behaviour=1
-long_line_column=80
+long_line_behaviour=2
+long_line_column=120
 
 [files]
 current_page=0
+FILE_NAME_0=13315;FreeBasic;0;EUTF-8;1;1;0;%2Fhome%2Ffabiuz%2Fmeus_documentos%2Fdatagrip%2FLTK_SCRIPT%2Fgerar_lotofacil.bas;0;4
 
 [VTE]
-last_dir=/home/fabiuz/meus_documentos/freebasic/analisador_lotofacil_gerador
+last_dir=/home/fabiuz/meus_documentos/datagrip/LTK_SCRIPT
